@@ -7,11 +7,7 @@
 
 ## Assets
 
-- player.png
-- background.png
-
-## References
-
-player.png — Generated using ChatGPT image generation (OpenAI)
-
-background.png — Generated using ChatGPT image generation (OpenAI)
+| File | Source |
+|------|--------|
+| `player.png` | Generated using ChatGPT image generation (OpenAI) |
+| `background.png` | Generated using ChatGPT image generation (OpenAI) |
